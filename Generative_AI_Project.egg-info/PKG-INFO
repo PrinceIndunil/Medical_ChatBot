@@ -1,5 +1,7 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: Generative-AI-Project
 Version: 0.0.0
 Author: Indunil Premakumara
 Author-email: lovekumara365@gmail.com
+Dynamic: author
+Dynamic: author-email
